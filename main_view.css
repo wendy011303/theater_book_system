@@ -1,0 +1,129 @@
+body {
+    background-color: #000000;
+    width:100%;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-top: 0;
+    opacity: 0;
+}
+.header{
+    background-image: url('../image/top_area.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.header .logo_intent {
+    margin: 5px 50px 5px 50px;
+    display: table; 
+    float: left; 
+}
+.header .menu {
+    display: table; 
+    float: left; 
+}
+.header .menu ul{
+    padding: 0;
+    margin: 0;
+    clear: both;
+    display:inline-block;
+    width: 100%;
+    font-family:Microsoft JhengHei;
+}
+.header .menu li{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    list-style: none;
+    float: left;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.header .menu a{
+    text-decoration: none;
+}
+.header .tool {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-color:#FFFFFF; 
+    border-width: 1px;
+    border-style: solid;
+    width: 10px;
+    display: table; 
+    float: left;
+}
+.header .tool ul{
+    padding: 0;
+    margin: 0;
+    clear: both;
+    display: inline-block;
+    width: 100%;
+    font-family: Microsoft JhengHei;
+}
+.header .tool li{
+    list-style: none;
+    float: left;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.header .tool a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.content{
+	background-image: url('../image/background.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	font-size: 14px;
+	color: #FFF;
+	position: relative;
+	top: 20px;
+	right: 100px;
+	font-family: "微軟正黑體";
+	font-weight: bold;
+	left: 100px;
+	bottom: 20px;
+}
+.content ul{
+	padding: 0;
+	margin: 0;
+	clear: both;
+	background-color: transparent;
+	display:inline-block;
+	width: 100%;
+	height:260px;
+	
+
+
+}
+.content ul:after{
+  clear: both;
+}
+.content li{
+	list-style: none;
+	float: left;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	height: 370px;
+	width:210px;
+}
+.content .h1{
+	font-family: "微軟正黑體";
+	font-size: 36px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: underline;	
+	}
+.copyright{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    color: #FFFFFF;
+    font-family: Microsoft JhengHei;
+    text-decoration: none;
+}
