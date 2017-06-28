@@ -1,14 +1,23 @@
-# theater_book_system
+# Theater Project
 
-This project is for webdesign course of yuntech,
-it function is a booking system for theater,
-each one can choose 1~4 seat,
-next user can't choose the same seat.
+## ²Õ­û¦W³æ:
+* B10313036 ¼Ö¬ö§Ê (ª©­±³]­p¡B½u¤W­q²¼)¡C
+* B10313025 ¾G±©¤¤ (¬ÛÃö¸ê®Æ¾ã²z)¡C
+* B10313105 ¹ùµµ¦w (¼v«°¤¶²Ð¡B¹q¼v¤¶²Ð)¡C
 
-We will use HTML.PHP.JavaScript.jQery.CSS to compose this project.
+** ¶i«×
+* ­º­¶     - ¥¼¶}©l¡C
+* ¼v«°¤¶²Ð - ³¡¤À§¹¦¨¡C
+* ¹q¼v¤¶²Ð - ³¡¤À§¹¦¨¡C
+* ½u¤W­q²¼ - ³¡¤À§¹¦¨¡C
+* ·|­û±M°Ï - ¥¼§¹¦¨¡C
 
-designers:
-B10313036 æ¨‚ç´€å»·
-B10313025 é„­æƒŸä¸­
-B10313105 å»–ç´«å®‰
- --2017/6/4
+## ¹B¥Î§Þ³N:
+* MySQL¡BPHP¡BHTML¡BCSS¡BJavascript¡Bjquery¡Bajax¡C
+
+## ­««ØÀô¹Ò:
+* 1. ¦w¸Ë"Xampp"«á¡A¥ý¶}±Ò"XAMPP Control Panel"±N"Apache"©M"MySQL" start¡C
+* 2. ±NÀÉ®×©ñ¨ì"C:\xampp\htdocs\theater_light"¥Ø¿ý¤U¡C
+* 3. ª½±µ¦bphpmyadmin¶×¤Jtheaterlib.sql¡C
+* 4. ·s¼W¨Ï¥ÎªÌ¡A±b¸¹¬°visitor¡A¥D¾÷¬°localhost¡A±K½X¬°visitor123¡A¥þ°ìÅv­­¥þ¿ï¡A"ÂIÀ»°õ¦æ"¡C
+* 5. ¶×¤J¦¨¥\¤§«á¨ìhttp://localhost/theater_light/§Y¥i¬Ý¨ìºô­¶¡C
